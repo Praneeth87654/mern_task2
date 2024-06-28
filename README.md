@@ -1,1 +1,1 @@
-Task Link : https://tusharkolli.github.io/MERN_Task_2/
+Task Link : https://praneeth87654.github.io/mern_task2/
